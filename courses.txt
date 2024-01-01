@@ -1,1 +1,2 @@
 course1 =DevOps
+course2 =java
